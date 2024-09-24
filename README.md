@@ -1,1 +1,1 @@
-# EC2deploment_1st
+# Deployment-of-a-static-website-on-AWS-ec2-Instances
