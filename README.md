@@ -1,1 +1,1 @@
-# Deploy of a static website on AWS ec2 Instances
+# Deploy a static website on AWS ec2 Instances
